@@ -6,3 +6,4 @@
       - [Arnayd Tsombeng](Friends/ArnaudTsombeng.md)
       - [Vince Knight](Friends/VinceKnight.md)
       - [Michalis Panayides](Friends/MichalisPanayides.md)
+      - [Michael Mutale](Friends/MichaelMutale.md)
