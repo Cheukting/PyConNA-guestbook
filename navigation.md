@@ -4,3 +4,4 @@
       - [CowDuck (example)](Friends/CowDuck.md)
       - [Lindley (example)](Friends/Lindley.md)
       - [Vince Knight](Friends/VinceKnight.md)
+      - [Michalis Panayides](Friends/MichalisPanayides.md)
