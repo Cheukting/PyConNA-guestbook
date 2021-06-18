@@ -3,4 +3,6 @@
   - [My friends](FRIENDS.md)
       - [CowDuck (example)](Friends/CowDuck.md)
       - [Lindley](Friends/Lindley.md)
+      - [Arnayd Tsombeng](Friends/ArnaudTsombeng.md)
+      - [Lindley (example)](Friends/Lindley.md)
       - [Vince Knight](Friends/VinceKnight.md)
