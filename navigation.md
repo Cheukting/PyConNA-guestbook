@@ -3,3 +3,7 @@
   - [My friends](FRIENDS.md)
       - [CowDuck (example)](Friends/CowDuck.md)
       - [Profiliu](Friends/Profiliu.md)
+      - [Lindley](Friends/Lindley.md)
+      - [Arnayd Tsombeng](Friends/ArnaudTsombeng.md)
+      - [Vince Knight](Friends/VinceKnight.md)
+      - [Michalis Panayides](Friends/MichalisPanayides.md)
